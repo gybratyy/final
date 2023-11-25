@@ -1,0 +1,32 @@
+nav, #hero{
+    font-family: Ubuntu;
+}
+
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow:none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+.user{
+    background: #99c55b;
+    text-align: end;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #838383;
+    border-radius: 5px;
+}
+.bot{
+    background: #b4b3b3;
+    text-align: start;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #807f7f;
+    border-radius: 5px;
+}
+
